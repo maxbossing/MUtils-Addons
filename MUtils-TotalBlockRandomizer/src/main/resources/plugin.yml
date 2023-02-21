@@ -1,0 +1,7 @@
+name: MUtils-TotalBlockRandomizer
+version: '${project.version}'
+main: de.maxbossing.mutilstotalblockrandomizer.MUtilsTotalBlockRandomizer
+api-version: 1.19
+depend: [ MUtils ]
+softdepend: [ MUtils ]
+authors: [ Max ]

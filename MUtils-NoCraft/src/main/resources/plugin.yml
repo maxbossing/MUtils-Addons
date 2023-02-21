@@ -1,0 +1,7 @@
+name: MUtils-NoCrafting
+version: '${project.version}'
+main: de.maxbossing.mutilsnocrafting.MUtilsNoCrafting
+api-version: 1.19
+depend: [ MUtils ]
+softdepend: [ MUtils ]
+authors: [ Max ]

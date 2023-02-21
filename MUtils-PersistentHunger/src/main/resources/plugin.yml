@@ -1,0 +1,7 @@
+name: MUtils-PersistentHunger
+version: '${project.version}'
+main: de.maxbossing.mutilspersistenthunger.MUtilsPersistentHunger
+api-version: 1.19
+depend: [ MUtils ]
+softdepend: [ MUtils ]
+authors: [ Max ]

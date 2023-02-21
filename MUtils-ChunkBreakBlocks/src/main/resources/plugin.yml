@@ -1,0 +1,7 @@
+name: MUtils-ChunkBreakBlocks
+version: '${project.version}'
+main: de.maxbossing.mutilschunkbreakblocks.MUtilsChunkBreakBlocks
+api-version: 1.19
+depend: [ MUtils ]
+softdepend: [ MUtils ]
+authors: [ Max ]

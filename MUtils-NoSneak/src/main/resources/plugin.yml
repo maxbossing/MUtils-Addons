@@ -1,0 +1,8 @@
+name: MUtils-NoSneak
+version: '${project.version}'
+main: de.maxbossing.mutilsnosneak.MUtilsNoSneak
+api-version: 1.19
+prefix: MUtils-NoSneak
+depend: [ MUtils ]
+softdepend: [ MUtils ]
+authors: [ Max ]

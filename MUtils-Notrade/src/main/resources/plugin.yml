@@ -1,0 +1,7 @@
+name: MUtils-NoTrade
+version: '${project.version}'
+main: de.maxbossing.mutilsnotrade.MUtilsNoTrade
+api-version: 1.19
+depend: [ Mutils ]
+softdepend: [ MUtils ]
+authors: [ Max ]

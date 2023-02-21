@@ -1,0 +1,7 @@
+name: MUtils-NoXP
+version: '${project.version}'
+main: de.maxbossing.mutilsnoxp.MUtilsNoXP
+api-version: 1.19
+depend: [ MUtils ]
+softdepend: [ MUtils ]
+authors: [ Max ]
