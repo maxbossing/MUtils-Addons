@@ -14,5 +14,5 @@
 
 **You cant use these plugins on their own!**
 
-These Plugins depend on MUtils and therefor should be no reason to download them from here!
+These Plugins depend on MUtils and therefore should be no reason to download them from here!
 MUtils will automatically download the newest version of these Plugins from the MUtils Backend.
