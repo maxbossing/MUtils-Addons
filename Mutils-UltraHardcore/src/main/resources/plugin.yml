@@ -1,0 +1,7 @@
+name: MUtils UltraHardcore
+version: '${project.version}'
+main: de.maxbossing.mutilsultrahardcore.MUtilsUltraHardcore
+api-version: 1.19
+depend: [ Mutils ]
+softdepend: [ MUtils ]
+authors: [ Max ]
