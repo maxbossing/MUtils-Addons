@@ -1,0 +1,13 @@
+name: MUtils-BlockRandomizer
+version: '${project.version}'
+main: de.maxbossing.mutilsblockrandomizer.MUtilsBlockRandomizer
+api-version: 1.19
+depend: [ MUtils ]
+softdepend: [ MUtils ]
+authors: [ Max ]
+commands:
+  shuffle:
+    permission: mutilsblockrandom.shuffle
+permissions:
+  mutilsblockrandom.shuffle:
+    default: op
