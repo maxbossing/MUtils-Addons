@@ -1,7 +1,0 @@
-name: MUtils-BedrockWalls
-version: '${project.version}'
-main: de.maxbossing.mutilsbedrockwalls.MUtilsBedrockWalls
-api-version: 1.19
-depend: [ MUtils ]
-softdepend: [ MUtils ]
-authors: [ Max ]

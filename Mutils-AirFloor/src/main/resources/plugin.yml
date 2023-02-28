@@ -1,7 +1,0 @@
-name: MUtils-AirFloor
-version: '${project.version}'
-main: de.maxbossing.mutilsairfloor.MUtilsAirFloor
-api-version: 1.19
-depend: [ MUtils ]
-softdepend: [ MUtils ]
-authors: [ Max ]

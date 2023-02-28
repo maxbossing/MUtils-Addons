@@ -5,11 +5,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>de.maxbossing</groupId>
-    <artifactId>MUtils-AirFloor</artifactId>
+    <artifactId>MUtils-NoSameItem</artifactId>
     <version>1.0</version>
     <packaging>jar</packaging>
 
-    <name>MUtils-AirFloor</name>
+    <name>MUtils-NoSameItem</name>
 
     <properties>
         <java.version>1.8</java.version>
